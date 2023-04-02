@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kishanpradhan226@gmail.com**
 
-- ⚡ Fun fact **I could all spend all day coding... just need CHAI ☕ and a GAME 🎮 to refresh myself.**
+- ⚡ Fun fact:  **I could all spend all day coding... just need CHAI ☕ and a GAME 🎮 to refresh myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
