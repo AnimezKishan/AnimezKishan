@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Kishan Kumar</h1>
 <h3 align="center">👨‍💻 A passionate Software Engineer from India 👨‍💻</h3>
 
+<img align="center" alt="Coding" width="550" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e473ri3jfr2awljrsyzsogsizbs97qhc8dwrh0uh1zd&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animezkishan&label=Profile%20views&color=0e75b6&style=flat" alt="animezkishan" /> </p>
-
-<img align="center" alt="Coding" width="550" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 - 🔭 I’m currently working on **E-Commerce Website using Django**
 
